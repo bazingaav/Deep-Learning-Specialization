@@ -1,1 +1,1 @@
-Deep Learning Specialization by deeplearning.ai
+Deep Learning Specialization by Andrew NG on Coursera (deeplearning.ai
