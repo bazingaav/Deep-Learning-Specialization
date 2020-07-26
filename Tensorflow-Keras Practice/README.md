@@ -1,4 +1,4 @@
-# 1. Digit Recognition - MNIST Dataset
+## 1. Digit Recognition - MNIST Dataset
 * Keras API is used with Tensorflow in backend.
 * In Course 2 of this specialization, an introduction to Tensorflow 1.x was given but I tried my hand at Tensorflow 2.0 with this project.
 * Sequential models with 2 dense hidden layers with 128 hidden units each were constructed & two different optimizers namely Stocastic Gradient Descent & ADAM were implemented.
