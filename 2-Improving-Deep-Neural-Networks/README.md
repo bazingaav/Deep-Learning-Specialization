@@ -13,8 +13,8 @@
   * Gradient Descent with Momentum
   * RMS Prop
   * Adam (RMS Prop + GD with Momentum)
-* Understood the importance of hyper-parameter tuning 
-* Understood the concept of Batch Normalization and Soft-max Regression
+* Understood the importance of hyper-parameter tuning. 
+* Understood the concept of Batch Normalization and Soft-max Regression.
   
 
 ### Certificate<br><hr>
